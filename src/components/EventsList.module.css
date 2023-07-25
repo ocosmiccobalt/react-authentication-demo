@@ -1,0 +1,42 @@
+.events {
+  max-width: 40rem;
+  margin: 2rem auto;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.item a {
+  display: flex;
+
+  text-decoration: none;
+  color: inherit;
+
+  background-color: var(--color-gray-800);
+  border-radius: 4px;
+
+  overflow: hidden;
+}
+
+.item a:hover {
+  background-color: var(--color-gray-700);
+
+  transform: scale(1.02);
+}
+
+.item img {
+  width: 33%;
+
+  object-fit: cover;
+}
+
+.content {
+  padding: 1rem;
+}
+
+.item h2 {
+  margin: 0 0 1rem 0;
+}

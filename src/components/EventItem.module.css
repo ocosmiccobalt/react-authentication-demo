@@ -1,0 +1,38 @@
+.event {
+  max-width: 50rem;
+  margin: 2rem auto;
+
+  text-align: center;
+}
+
+.event img {
+  width: 30rem;
+
+  border-radius: 4px;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+
+  padding: 0;
+}
+
+.actions a,
+.actions button {
+  padding: 0.25rem 1rem;
+
+  font: inherit;
+  text-decoration: none;
+
+  cursor: pointer;
+}
+
+.actions button {
+  color: var(--color-primary-800);
+
+  background-color: transparent;
+  border: none;
+}
