@@ -1,0 +1,42 @@
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    },
+    {
+      "title": "A new event",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "date": "2023-10-01",
+      "description": "Some awesome event!",
+      "id": "24684616-02e7-404a-8fef-913d080080d9"
+    },
+    {
+      "id": "e1",
+      "title": "A dummy event",
+      "date": "2023-02-22",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event and connect with fellow developers."
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$jo7Bvbv0JEadogufBnomfeLudm2ZJ6oifsg/JwFeCp8Zbt4pMUx2O",
+      "id": "46e32ef7-0831-40de-8504-029c18eda5f3"
+    },
+    {
+      "email": "test2@test.com",
+      "password": "$2a$12$/gwVKZlvOf9NNlYldooBk.zsvxYrLt6AB.QNqs/KoLqM7t8eQqZXC",
+      "id": "ec7ed17c-0034-4d83-be18-c64332f0adf5"
+    },
+    {
+      "email": "test3@test.com",
+      "password": "$2a$12$LjyHdYg.9QcSCxNNKXPHXuekpo3QNNVuvGZUH2Bm4kN9MtoRuPZ6q",
+      "id": "43c612fb-3638-410a-9109-c3974f1af537"
+    }
+  ]
+}
